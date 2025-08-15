@@ -7,25 +7,25 @@ const Skills = () => {
     {
       title: "QA & Testes",
       icon: Bug,
-      skills: ["QA Manual", "Testes Funcionais", "Testes Exploratórios", "Selenium", "Jira", "TestRail"],
+      skills: ["QA Manual", "Testes Funcionais", "Testes Exploratórios", "Jira"],
       color: "bg-red-500/10 text-red-600 border-red-500/20"
     },
     {
       title: "Design",
       icon: Palette,
-      skills: ["Figma", "UI/UX Design", "Prototipação", "Design System", "Adobe XD", "Wireframes"],
+      skills: ["Figma", "UI/UX Design", "Prototipação", "Design System", "Wireframes"],
       color: "bg-purple-500/10 text-purple-600 border-purple-500/20"
     },
     {
       title: "Desenvolvimento",
       icon: Code,
-      skills: ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Git"],
+      skills: ["HTML", "CSS", "JavaScript", "React", "Git"],
       color: "bg-blue-500/10 text-blue-600 border-blue-500/20"
     },
     {
       title: "Metodologias",
       icon: Users,
-      skills: ["Metodologias Ágeis", "Scrum", "Kanban", "DevOps", "CI/CD", "Documentação"],
+      skills: ["Metodologias Ágeis", "Scrum", "Kanban", "Documentação"],
       color: "bg-green-500/10 text-green-600 border-green-500/20"
     }
   ];
