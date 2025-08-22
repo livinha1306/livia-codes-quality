@@ -16,7 +16,7 @@ const About = () => {
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed">
               Sou estudante de Engenharia de Software com foco em Garantia da Qualidade (QA) 
-              e Design de Interfaces. Tenho experiência em testes funcionais e exploratórios, 
+              e Design de Interfac. Tenho experiência em testes funcionais e exploratórios, 
               criação de protótipos e melhoria da experiência do usuário.
             </p>
             
