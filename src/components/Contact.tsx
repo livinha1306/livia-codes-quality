@@ -7,8 +7,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "liviaazumamarques@gmail.com",
-      href: "mailto:liviaazumamarques@gmail.com"
+      value: "liviaaazumamarques@gmail.com",
+      href: "mailto:liviaaazumamarques@gmail.com"
     },
     {
       icon: Linkedin,
@@ -85,7 +85,7 @@ const Contact = () => {
                   asChild
                   className="bg-white text-primary hover:bg-white/90"
                 >
-                  <a href="mailto:liviaazumamarques@gmail.com">
+                  <a href="mailto:liviaaazumamarques@gmail.com">
                     <Mail className="mr-2 h-4 w-4" />
                     Entre em Contato
                   </a>
